@@ -2,7 +2,10 @@ import random
 import navios
 import utils
 
-FROTA = {"grandes": 2, "pequenos": 3}
+FROTA = {
+    "grande": 2,
+    "pequeno": 3
+    }
 
 
 class Tabuleiro:
